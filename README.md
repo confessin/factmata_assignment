@@ -44,11 +44,33 @@ Statisitics:
     Renewable internal freshwater resources per capita (cubic meters)	ER.H2O.INTR.PC
     Prevalence of undernourishment (% of population)	SN.ITK.DEFC.ZS
 
+
+
+Findings:
+------------
+    
+- Most of the people when they talk about these statistics, they talk in increments and decrements.
+- The statistics used can be found in forums or social media sites where common people use them
+
 Tasks
 
 1. Get sentences by google search for each entity + country + (year)
-2. Tag 
-http://www.nltk.org/book/ch07.html
+
+
+How to perform tasks:
+===============
+    
+- Under assignment there are scripts to get data from 
+    - duckduck go search engine
+    - twitter
+    - quora
+- Sample data is provided in data/ folder.
+- IEPY
+- To see samples run the server by python3.5 bin/manage.py runserver
+- You can see an example relation (inflation rate)
+- Check and run learning core of iepy
+
+ ![alt tag](https://raw.githubusercontent.com/confessin/factmata_assignment/master/screen_shot.png)
 
 
 
@@ -64,6 +86,3 @@ Pipeline for QA?
 http://iepy.readthedocs.io/en/latest/corpus_labeling.html#document-based-labeling
 
 
-Findings:
-    
-    Most of the people when they talk about these statistics, they talk in increments and decrements.
