@@ -1,0 +1,727 @@
+document_id,document_text
+quora_1,What is the relationship between interest rates, inflation .
+quora_2,As the interest rates rise, the market becomes attractive for capital. As a result the currency appreciates. However, in a country with high inflation, the interest .
+quora_3,How do interest rates affect inflation? - Quora
+quora_4,Inflation is the rise over time in the prices of goods and services usually measured as an annual percentage, just like interest rates. Inflation is the natural .
+quora_5,Why is 2% the ideal inflation rate? - Quora
+quora_6,On a macro- scale, why is the ideal inflation rate set around 2%? Why does this signify a healthy economic growth rate? There's no ideal inflation rate central .
+quora_7,What is a desirable level of inflation? - Quora
+quora_8,It's important to distinguish between the desirable rate of inflation in the short term and the long term. In the short term, unexpected inflation benefits borrowers .
+quora_9,How to calculate inflation rate using GDP Deflator - Quora
+quora_10,Full disclosure: I pulled the above image from Wikipedia. Now let's dig in a little deeper to understand how the GDP deflator represents inflation.
+quora_11,What's the relationship between interest, inflation .
+quora_12,What is an approximative ratio between the rate of inflation in a country and the ensuing decrease in the value of its real exchange?
+quora_13,What is Negative inflation? And its effects? - Quora
+quora_14,When the prices of goods and services in an economy falls, we term it negative inflation or deflation. Negative inflation is usually catastrophic to an economy.
+quora_15,What is the current inflation rate in the US? - Quora
+quora_16,The current inflation rate in US is 1.7% for 12 months upto Aug 2014. Inflation rate for Sep 2014 will be available on 22 October 2014 as per US Bureau of Labor .
+quora_17,What is inflation? What are trends in inflation & their .
+quora_18,So you'd think that Inflation is a bad thing, but it isn't so bad after all. Few terms that you would also like to know about: Disinflation: A decrease in the rate of .
+quora_19,Inflation in India: Is increasing interest rates a solution .
+quora_20,High interest rates certainly exude a negative effect on the economy by raising rates for businesses to make on their loans and increasing mortgages as well, but .
+quora_21,What is the relationship between growth, inflation, and .
+quora_22,With simultaneously high rates of both inflation and unemployment, the so-called stagflation is experienced which discredit the idea of a stable trade-off between the .
+quora_23,How is the inflation rate calculated? - Quora
+quora_24,Does the monthly inflation rate state how much the money supply has increased in any given month, or does it point to the annualized average increase?
+quora_25,What does the inflation rate (and changes to it) indicate .
+quora_26,Basically, inflation is the rate at which your country is getting expensive to live in. Changes in inflation indicate the change in the amount of money you would have .
+quora_27,What is the impact of the inflation rate on the GDP growth .
+quora_28,GDP is the total production that occurs in an economy thus if prices rise due to inflation, the cost of factors of production increases (raw material, labor, capital .
+quora_29,What's a good business in a country with high inflation rates .
+quora_30,What's a good business in a country with high inflation rates? Update Cancel. Promoted by LawTrades.com. Hire a great attorney for your startup. Get a free quote now.
+quora_31,How is inflation measured? What is the inflation rate formula .
+quora_32,There are different ways of measuring inflation, but here's the basic way. You start with a price index, which (simplified) is the ratio of the cost of a fixed basket .
+quora_33,What is the base effect in the inflation rate? - Quora
+quora_34,Inflation is measured in relative terms. Therefore, if the prices in 2011 were ₹ 100 which increased to ₹ 150 in 2012 and then ₹ 200 in 2013, then -
+quora_35,What is the average yearly inflation rate in the San .
+quora_36,What is the average yearly inflation rate in the San Francisco Bay Area? Let's go with the last 5 years. Including 2014. Update Cancel. Answer Wiki. 1 Answer.
+quora_37,What is the single most important cause for inflation in India?
+quora_38,I don't think it is possible to single out one cause for inflation in India. There are multiple reasons and most of them are linked with each other.
+quora_39,What is the inflation rate of India in 2015? - Quora
+quora_40,What is the inflation rate of average Software Engineer's salary in India in last 10 years? How does the Reserve Bank of India changing repo rates and reverse repo .
+quora_41,Inflation (economics) - Quora
+quora_42,Inflation is the gradual decrease in the value of money and hence ability to buy goods with an unit of corresponding currency of a nation decreases.
+quora_43,How is 'economic growth' adjusted for inflation? - Quora
+quora_44,How is "economic growth" adjusted for inflation? Update Cancel. Promoted by Fundrise. Fundrise: . Interest rates are 9-12.50%, 8% inflation rate, ass .
+quora_45,What is the actual rate of inflation in the USA? - Quora
+quora_46,What is the actual rate of inflation in the USA? Take in to account all the pieces that are excluded or modified. Update Cancel. Promoted by Fundrise.
+quora_47,What can be explained about the hyperinflation in Zimbabwe .
+quora_48,HyperInflation: From the term itself we can see that its an inflation which is too difficult to control or it is an inflation which is occurring at very high rate.
+quora_49,Why shouldn't the Central Bank aim for zero inflation? - Quora
+quora_50,Thus, zero inflation literally handcuffs the central bank by taking its most important policy tool away. Can you defend yourself against an enemy if your hands are .
+quora_51,How to read inflation? Suppose I have $100 now and inflation .
+quora_52,Inflation is a change in purchasing power of your money. A 3% inflation rate means that after one year, your $100 will be able to buy what [math]\frac{$100}{1+0.03 .
+quora_53,What will US inflation be like in 2015? - Quora
+quora_54,What will US inflation be like in 2015? Update Cancel. . What would you Estimate the average inflation rate for next 20 years will be in the US, double?
+quora_55,What is the inflation premium? - Quora
+quora_56,An inflation premium is explained in the enclosed article. Inflation Premium - Boundless Open Textbook. An inflation premium is the part of prevailing interest rates .
+quora_57,What is a country's economy, GDP and inflation rate? - Quora
+quora_58,Why is an inflation rate less than the target rate harmful to an economy? What do you mean by economy and by GDP of a country?
+quora_59,What are the inflation rates, GDP growth rates and employment .
+quora_60,What are the inflation rates, GDP growth rates and employment rates in India? What are your views on it? Update Cancel. Can you answer this question? Answer. Answer Wiki.
+quora_61,2
+quora_62,What are the inflation rates, GDP growth rates and employment .
+quora_63,What are the inflation rates, GDP growth rates and employment rates in India? What are your views on it? Update Cancel. Can you answer this question? Answer. Answer Wiki.
+quora_64,How can i calculate inflation rate in india? - Quora
+quora_65,How is the inflation rate calculated in India? For example, retail inflation for April 2016 was 5.39%. Is this year-on year?
+quora_66,What's the relationship between inflation and demand of .
+quora_67,The rate of inflation in a country can have a major impact on the value of its currency and the rates of foreign exchange it has with the currencies of other nations.
+quora_68,How does inflation affect the economy? - Quora
+quora_69,How does inflation affect the exchange rate? What is meant by 'opportunity cost' in economy & how does it negatively affect inflation? How will the VAT rise and .
+quora_70,Why are inflation rates so high in emerging countries? - Quora
+quora_71,Developed countries have to manage low inflation rates, poor and developing countries manage high inflation. How and why does this transition .
+quora_72,How is inflation linked to interest rates? - Quora
+quora_73,Interest and inflation are key to investing decisions, since they have a direct impact on the investment yield. When prices rise, the same unit of a currency is able .
+quora_74,What are the causes of inflation? - Quora
+quora_75,What are the causes of inflation? Technically inflation is positive when growth in money stock is greater than growth of GDP. But there are a number of things .
+quora_76,What is the relationship between inflation and repo rate? - Quora
+quora_77,Inflation is increase in the price of goods and services. if inflation increases in market, indicates more money in the market. if inflation decreases in market .
+quora_78,What are the factors that affect inflation in India? - Quora
+quora_79,What are the factors that affect inflation in India? Update Cancel. Answer Wiki. 6 Answers. . What is the relationship between the interest rate, inflation and gold?
+quora_80,What will US inflation be like in 2015? - Quora
+quora_81,What will US inflation be like in 2015? Update Cancel. . What would you Estimate the average inflation rate for next 20 years will be in the US, double?
+quora_82,What would you Estimate the average inflation rate for next .
+quora_83,Answer: The 5 year estimate from the IMF is available here: What inflation rate estimate is appropriate for my country?
+quora_84,What happens when the inflation rate goes negative? - Quora
+quora_85,What happens when the inflation rate goes negative? Update Cancel. Answer Wiki. . If the inflation rate is negative how do you find the value of the price index?
+quora_86,India's inflation rate is higher than GDP growth rate, is .
+quora_87,What are the inflation rates, GDP growth rates and employment rates in India? What are your views on it? What is a country's economy, GDP and inflation rate?
+quora_88,What are the relationship between growth rate, inflation rate .
+quora_89,While GDP is the total national income of a particular year, growth rate is incremental rise of income every year. Inflation rate is rise in prices for a relevant .
+quora_90,Is inflation bad or good for economy of a country? - Quora
+quora_91,January 2010 Oaktree Memo: Inflation, Exchange Rates and Interest Rates The macro question I get most often concerns the outlook for inflation. And as someone who .
+quora_92,What is the inflation rate forecast for 2011? - Quora
+quora_93,What is the relationship between interest rates, inflation, and exchange rates in an economy? Are the Monsoon forecast & inflation expectations overrated?
+quora_94,What is the relationship between inflation and unemployment .
+quora_95,Why the correlation between the unemployment and inflation rates can be positive, zero, or negative? What is the relationship between inflation, unemployment, .
+quora_96,Does inflation increase when GDP increases? - Quora
+quora_97,Does inflation increase when GDP increases? Update Cancel. Answer Wiki. 3 Answers. . Can GDP actually be increased without adding pressure to the inflation rate?
+quora_98,What is a reasonable level of inflation in an economy growing .
+quora_99,With relatively high inflation cited as an important issue by most people, the question then becomes, What is the best inflation rate? Many would say zero or negative .
+quora_100,Why is Venezuela suffering from high inflation? - Quora
+quora_101,Why is Venezuela suffering from high inflation? . What are the consequences of low policy rates and high inflation? Is it possible for a economy to grow with no .
+quora_102,What is the relationship between interest rates, inflation .
+quora_103,As the interest rates rise, the market becomes attractive for capital. As a result the currency appreciates. However, in a country with high inflation, the interest .
+quora_104,What controls inflation? - Quora
+quora_105,The Fed tries to control inflation by increasing interest rates to make money more costly. A plot would show reverse correlation between CPI and interest rate.
+quora_106,Is there a connection between bank interest rates and .
+quora_107,There is indeed a direct connection. As bank interest rate goes up, inflation tends to go down and vice versa. Inflation is excess money chasing fewer things.
+quora_108,What was the bitcoin inflation rate in 2013? - Quora
+quora_109,What is the relationship between interest rates, inflation, and exchange rates in an economy? How did the US lower its inflation rate from 13.5% in 1980 to 1.5% in 2013?
+quora_110,How are inflation rates computed? - Quora
+quora_111,How are inflation rates computed? Update Cancel. Promoted by Fundrise. Fundrise: Introducing a superior investing platform. Smart. Simple. Direct. Get started in seconds.
+quora_112,Is moderate inflation good for the economy? - Quora
+quora_113,The optimum inflation rate for long-term economic growth is between 2 and 4%. There are several reasons for this: First, deflation is economically devastating, and .
+quora_114,How does inflation affect interest rates? - Quora
+quora_115,How does Vijay Mallya's loan of around Rs 7800 crore affect the Indian economy, the Inflation rate, Rupee Value and FD Interest Rates ?
+quora_116,What is the inflation in India? - Quora
+quora_117,Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling.
+quora_118,What is the real inflation rate in the UK if the cost of .
+quora_119,Inflation statistics exclude arguably essential costs to the cost of living. If the increases in the cost of buying and/or renting are factored in, what is a more .
+quora_120,Why is low and zero inflation bad? - Quora
+quora_121,Inflation is at zero percent, and today the rupee closed at nearly an 11-month low against the dollar. How is this possible?
+quora_122,How is CPI inflation rate calculated? - Quora
+quora_123,Will the ultra low 0.3% CPI inflation rate keep the USA Federal Reserve from raising interest rates this year? What is the equation to calculate the CPI?
+quora_124,Why is the inflation rate in Argentina so high at the moment .
+quora_125,Why is the inflation rate in Argentina so high at the moment? . Why are government estimates of Argentina's inflation rate widely at odds with private estimates?
+quora_126,How do governments calculate inflation rates? - Quora
+quora_127,Inflation in India is calculated based on Wholesale price inflation(WPI) and Consumer price inflation (CPI). Who provides inflation rates? WPI -Office of the Economic .
+quora_128,What is the difference between interest rate and discount .
+quora_129,In case of bill financing banks use interest rate and discount rate concurrently. For demand bills which is paid immediately (on demand) interest rate is applied.
+quora_130,What is the adjusted inflation rate for US if food and gas .
+quora_131,What is the adjusted inflation rate for US if food and gas were included? I believe the US does not include food and gas in calculating inflation since they are .
+quora_132,Do the changes in direct or indirect taxes affect the .
+quora_133,If the central government changes the tax rate( VAT, service tax, income tax, excise duty etc) does it affect the inflation in the economy. If yes, then how the RBI .
+quora_134,How to find the inflation rate - Quora
+quora_135,How can I find the inflation rate? Update Cancel. Can you answer this . What is the relationship between interest rates, inflation, and exchange rates in an economy?
+quora_136,How is CPI inflation rate calculated? What is the equation .
+quora_137,Which one shows a higher rate of inflation and why? Why did the RBI suddenly switch from WPI to CPI for the monitoring of inflation for fixing interest rates in India?
+quora_138,How can inflation rate be 0 or negative? - Quora
+quora_139,Inflation rate is just the percentage change in the price levels between two consecutive periods (years or months). I.e the formula is simply:
+quora_140,Why is the inflation rate in the U.S. so low, and will it hike?
+quora_141,Why hasn't inflation been higher in the U.S. in the last few years, since it has printed a lot of dollars and interest rates have been very lo.
+quora_142,How does inflation influence purchasing power? - Quora
+quora_143,By examining price indices, the Federal Reserve can make predictions about future inflation rates to help manufacturers and consumers plan and prepare.
+quora_144,What is the relationship between inflation and interest rates .
+quora_145,Changing realized inflation and projected path of future inflation affect interest rates through the central bank expectations channel (which largely impacts front .
+quora_146,What is inflation targeting? - Quora
+quora_147,Inflation Targeting is the Central bank's policy that revolves around meeting preset, publically displayed targets for annual rate of inflation.
+quora_148,What does an inflation rate of zero mean? Are we going to get .
+quora_149,Inflation is zero, moreover wholesale price index is Zero. It simply means the wholesale prices of goods and services were the same last November when compared to .
+quora_150,How does low inflation and unemployment affect the . - Quora
+quora_151,Answer: Low inflation and Unemployment means less demand and low production. Which again leads to stagnation. Obviously it ruins the Economy.
+quora_152,How does high inflation rate increase the opportunity cost of .
+quora_153,Now consider a bank account which gives you a certain amount of interest. If the rate of interest is . Equal to the rate of inflation you there will be no opportunity .
+quora_154,Why is Nigeria's annual inflation rate so high (12.22% .
+quora_155,It's many things, but food and beverages are the biggest drivers--their weight accounts for half of the inflation (inflation expectations explains 86% of Nigeria's .
+quora_156,How does inflation affect the exchange rate? - Quora
+quora_157,My textbook says, "When our inflation rate is rising at a faster rate relative to our trading partners it can harm exporters and benefit importers." Which implies .
+quora_158,What is inflation and GDP? - Quora
+quora_159,What is inflation and GDP? Update Cancel. Promoted by . Inflation: Rate of increase in the value of a commodity or service when compared to base year's price or the .
+quora_160,What is inflation/recession in layman's terms? - Quora
+quora_161,What is inflation/recession in layman's terms? Update Cancel. Answer Wiki. 4 Answers. . For example, if the inflation rate is 10 per cent, .
+quora_162,3
+quora_163,Does inflation have any affect on the housing market? - Quora
+quora_164,Does inflation have any affect on the housing market? . Therefore the cost of housing would go up faster than the general inflation rate. 281 Views. Related Questions.
+quora_165,What is inflation targeting? - Quora
+quora_166,Inflation Targeting is the Central bank's policy that revolves around meeting preset, publically displayed targets for annual rate of inflation.
+quora_167,Why is inflation bad or unhealthy? - Quora
+quora_168,Why is inflation bad or unhealthy? Isn't inflation perhaps a neutral, . In practice, high rates of inflation tend to be more variable than low rates, .
+quora_169,Why does inflation depreciate the currency while deflation .
+quora_170,This is called an exchange rate. In the long term, inflation of a currency is directly proportional . Why does inflation depreciate the currency while deflation .
+quora_171,Why is the inflation rate in Argentina so high at the moment .
+quora_172,Why is the inflation rate in Argentina so high at the moment? . Why are government estimates of Argentina's inflation rate widely at odds with private estimates?
+quora_173,How is China's inflation rate so low? How is it measured? - Quora
+quora_174,What does the CPI and the inflation rate have to do with each other? I was just growing trading economics and i noticed that currently China's inflation rate is .
+quora_175,Is there a difference between growth and inflation, and if so .
+quora_176,Is there a difference between growth and inflation? . What is the relationship between interest rates, inflation, and exchange rates in an economy?
+quora_177,How does low inflation and unemployment affect the . - Quora
+quora_178,Answer: Low inflation and Unemployment means less demand and low production. Which again leads to stagnation. Obviously it ruins the Economy.
+quora_179,How much of an effect does inflation have on a country's .
+quora_180,How much of an effect does inflation have on a country's currency strength? Update Cancel. . This is a pretty common linkage to think about with inflation and FX rates.
+quora_181,What is deinflation? - Quora
+quora_182,What is deinflation? Update Cancel. Answer Wiki. . disinflation is a decrease in the rate of inflation (so, 5% one year and 4% the next would be disinflation); .
+quora_183,Why is the inflation rate in the U.S. so low, and will it hike?
+quora_184,Why hasn't inflation been higher in the U.S. in the last few years, since it has printed a lot of dollars and interest rates have been very lo.
+quora_185,How to make the most out of my money while living in a .
+quora_186,Inflation rates in India are positive for most of time in history. If prices are going up, there must be someone who is pumping this extra mon.
+quora_187,What is the difference between inflation and rate of .
+quora_188,Inflation generally means overall increase in the price of goods and services ( Tradable commodities) in long term. It is caused by various macro economic factors.
+quora_189,What is inflation/recession in layman's terms? - Quora
+quora_190,What is inflation/recession in layman's terms? Update Cancel. Answer Wiki. 4 Answers. . For example, if the inflation rate is 10 per cent, .
+quora_191,How can the inflation rate of a country be controlled? As a .
+quora_192,Inflation is a condition where the pool of capital exceeds the pool of available goods and services. For the most part, there isn't much a common person can do .
+quora_193,What does an inflation rate of zero mean? Are we going to get .
+quora_194,Inflation is zero, moreover wholesale price index is Zero. It simply means the wholesale prices of goods and services were the same last November when compared to .
+quora_195,If the GDP growth of a country is 6% and the inflation rate .
+quora_196,If the GDP growth of a country is 6% and the inflation rate is 10%, does this mean that the real standard of living in the country is declining? Update Cancel.
+quora_197,What causes the inflation of Singapore's dollar and the high .
+quora_198,What causes the inflation of Singapore's dollar and the high cost of living in Singapore? . Singapore Inflation Rate Slows to Nearly 5-Year-Low in October.
+quora_199,What is the annual inflation rate in terms of percentage in .
+quora_200,What is the current Inflation rate in India? And how does it effects the fluctuations of price in terms of real estate, Gold, Currency, Equiti. What is the rate of .
+quora_201,If inflation is increasing, will the price level (CPI .
+quora_202,Inflation is the rate of change of the price level. Think of price level as location. Inflation is the speed. Constant inflation is like constant speed: price level .
+quora_203,What should be the ideal inflation rate for country like .
+quora_204,Ideal Inflation Rate is about 3-4%. Lesser rates are signs of slowdown in the economy whereas higher rates .i.e. above 6% are considered dangerous.
+quora_205,What are the advantages of inflation? - Quora
+quora_206,What are the advantages of inflation? Update Cancel. Answer Wiki. 7 Answers. . What is the relationship between interest rates, inflation, and exchange rates in an .
+quora_207,Why is inflation higher in developing countries? - Quora
+quora_208,Why is inflation higher in developing countries? . Developed countries have to manage low inflation rates, poor and developing countries manage high inflation.
+quora_209,What is the single most important cause for inflation in India?
+quora_210,I don't think it is possible to single out one cause for inflation in India. There are multiple reasons and most of them are linked with each other.
+quora_211,If the nominal interest rate is 11%, the inflation rate is 4% .
+quora_212,After computing for tax rates, inflation, and monthly living expenses, WHERE should I put my capital in? What would be a decent interest rate .
+quora_213,What should be the ideal inflation rate? - Quora
+quora_214,The ideal inflation rate according to RBI is around or less than 5%. The inflation theoretically can't be and shouldn't be zero for a development country.
+quora_215,How does a significant increase in exports increase inflation .
+quora_216,How does an increased inflation rate cause an increase in volume of exports of an economy? What is the relationship between interest rates, inflation, .
+quora_217,With current low inflation rates, why would the fed tighten .
+quora_218,If the Fed raises interest rates with falling commodity prices and low inflation outlook, will it invert the yield curve? What conditions cont.
+quora_219,WHAT CAN SLOWDOWN THE INFLATION RATE IN INDIA? - Quora
+quora_220,The inflation rate in India was recorded at 6.46 percent in September of 2013. Inflation Rate in India is reported by the Ministry of Commerce and Industry, India.
+quora_221,Why is some inflation 'healthy' for the economy? - Quora
+quora_222,Simply because the existence of consistent low level Inflation, precludes the existence of the evil of Deflation. If the economy is matter, then Deflation is anti matter.
+quora_223,How are inflation and the rates of interest of banks related .
+quora_224,What is the relation between interest rate and inflation? What is the relation between inflation and bank interest rate? What is the relationship between interest .
+quora_225,Why does India use WPI instead of CPI to calculate inflation .
+quora_226,How would you rate Indian Inflation Index bonds which are linked to Consumer Price . Why do many countries still use WPI instead of CPI to calculate their inflation?
+quora_227,What is the effect of inflation on the value of the rupee .
+quora_228,Inflation is at zero percent, and today the rupee closed at nearly an 11-month low against the dollar. How is this possible?
+quora_229,What's some information about the inflation rate of India .
+quora_230,India's inflation rate is higher than GDP growth rate, is India really growing? Why is the inflation rate in the U.S. so low, and will it hike?
+quora_231,Why is the inflation rate -2.06% in India, when the CPI in .
+quora_232,Why is the inflation rate -2.06% in India, when the CPI in 2014 was 114.70 and it was 119.70 in January 2015?Should not it be 4.366%?
+quora_233,How are interest and inflation are related to each other? - Quora
+quora_234,You are partially correct with inflation being an inevitable side effect of daily transaction, but in real terms interest rates do work in controlling interest in the .
+quora_235,What is an example of a difference between inflation and .
+quora_236,Inflation is when the average level of prices are rising in an economy. Deflation is when the average level of prices are falling in an economy. Inflation example
+quora_237,What is inflation tax? - Quora
+quora_238,What is inflation tax? Update Cancel. Answer Wiki. 1 Answer. Sanjay Kulkarni. . Income Tax: Why don't tax slabs get adjusted each year based on annual inflation rate?
+quora_239,Is CPI inflation? - Quora
+quora_240,How is CPI inflation rate calculated? Why does rural CPI not consider housing inflation? Which commodities are included in CPI while measuring inflation?
+quora_241,Considering the high inflation rate in India, is it smart to .
+quora_242,Inflation is quite high in India. Indians are quite conservative. Thus Indians focus on saving more. Indians are risk averse and so they do not play the investment game.
+quora_243,What is a "5-year/5-year swap rate" used to benchmark inflation?
+quora_244,Explain it to me like am a 5 year old the concepts of foreign exchange-forex reserves, inflation, interest rates, PPP and their interrelations.
+quora_245,What is the significance of inflation? - Quora
+quora_246,Inflation is a condition in economy when "Money starts losing its value" it actually means with same amount of money one can buy less of goods now.
+quora_247,What is monetary inflation? - Quora
+quora_248,TL;DR: Inflation is the percentage increase of the price level. I suppose you could say that monetary inflation is an increase in the price level driven by an .
+quora_249,How does export of a country have an effect on inflation .
+quora_250,If you flip the question than it becomes more meaningful as the renewed question will state "How does an Inflation affect the country's export?"
+quora_251,What is the relationship between exchange rate and inflation .
+quora_252,Answer: The question looks intriguing. refer What is the relationship between interest rates, inflation, and exchange rates in an economy?
+quora_253,Is there a relationship between a country's population rate .
+quora_254,Inflation is the rate of change in prices. A population that is growing can lead to increased demand and thus increased prices, but the larger population can also .
+quora_255,Why is inflation so high in India? - Quora
+quora_256,Why is inflation so high in India? Inflation is low or sometimes negative in western countries. . If you reduce interest rates, more loans, more inflation.
+quora_257,Why does inflation increase with GDP growth? - Quora
+quora_258,Why does inflation increase with GDP growth? . A relatively poor nation with abundant resources can grow at a high rate with low inflation. 940 Views · View .
+quora_259,What are the reasons behind the inflation in Turkey today .
+quora_260,What is the rationale behind the theory that low interest rate lead to low inflation according to Turkey's Erdogan?
+quora_261,How does inflation affect DCF valuation model? - Quora
+quora_262,How does inflation affect DCF valuation model? Update Cancel. Promoted by Fundrise. Fundrise: . The discount rate includes inflation as well as bank interest.
+quora_263,4
+quora_264,What is the effect of inflation on the value of the rupee .
+quora_265,Inflation is at zero percent, and today the rupee closed at nearly an 11-month low against the dollar. How is this possible?
+quora_266,What is exporting inflation And How did the US export .
+quora_267,What is exporting inflation And How did the US export inflation? . How does a significant increase in exports increase inflation rates of that economy?
+quora_268,In terms of inflation, why do people care more about an .
+quora_269,In terms of inflation, why do people care more about an inflation rate than about GDP deflator? . Which one shows a higher rate of inflation and why?
+quora_270,What is the meaning of 'when adjusted for inflation'? - Quora
+quora_271,Adjusted for inflation means adjusted for price level change. Let's understand what it means Suppose an economy only has 2 goods (petrol and diesel).
+quora_272,How can compound interest affect inflation? - Quora
+quora_273,A stable rate of inflation is itself a compound interest curve, in that prices increase by a percentage every unit of time. So if inflation is running at 10% per year .
+quora_274,Does a low level of inflation encourage savings and .
+quora_275,Definition: The inflation is the rate at which the general level of prices for goods and services is rising, and, subsequently, purchasing power is falling .
+quora_276,What happens if inflation becomes less than zero? - Quora
+quora_277,Why is an inflation rate less than the target rate harmful to an economy? What items have increased or decreased in cost by LESS than inflation over the last 30-50 years?
+quora_278,What is the true rate of inflation? - Quora
+quora_279,Is it true that Dosa Prices are not down when inflation rate comes down because of the old technology of using 'tawa' as stated by Governor RB.
+quora_280,What are the GDP Deflator and the Consumer Price Index? What .
+quora_281,What are the GDP Deflator and the Consumer Price Index? . In terms of inflation, why do people care more about an inflation rate than about GDP deflator?
+quora_282,Discounted Cash Flow: How do you build inflation into a DCF?
+quora_283,Discounted Cash Flow: How do you build inflation into a DCF? . If you are given an inflation rate, inflate all your cash inflows and outflows with that rate.
+quora_284,How can inflation be controlled? - Quora
+quora_285,How can inflation be controlled? Update Cancel. Answer Wiki. . What does government do to keep a check on inflation rate? How can a government control inflation?
+quora_286,What is the relation between CRR, SLR, and inflation? - Quora
+quora_287,What is the relation between bankrate and . RBI uses quantitave tools to combat inflation but the point is both the CRR and the repo rate are used for inflation .
+quora_288,How is inflation controlled in Bitcoins? - Quora
+quora_289,How is inflation controlled in Bitcoins? Update Cancel. Answer Wiki. 4 Answers. . How can Zimbabwe control its inflation rate? How does Bank of England control .
+quora_290,How is inflation linked to unemployment? - Quora
+quora_291,Is inflation with persistently high unemployment better or worse than deflation with similar rates of unemployment? Why?
+quora_292,If the GDP growth of a country is 6% and the inflation rate .
+quora_293,If the GDP growth of a country is 6% and the inflation rate is 10%, does this mean that the real standard of living in the country is declining? Update Cancel.
+quora_294,How can inflation affect interest rates? - Quora
+quora_295,What is the relationship between the interest rate, inflation and gold? What other economic factors affect the price of gold? How does inflation affect the exchange rate?
+quora_296,What is inflation (in 140 characters or fewer)? - Quora
+quora_297,What is inflation (in 140 characters or fewer)? . What is the relationship between interest rates, inflation, and exchange rates in an economy?
+quora_298,How can Zimbabwe control its inflation rate? - Quora
+quora_299,How can the inflation rate of a country be controlled? As a citizen, what can I do to achieve this? Can a country have different interest rates for lenders and .
+quora_300,Is development is based on high inflation rate? - Quora
+quora_301,It is not always like that a high inflation brings along a lot of problem with it. Domestic currency depreciates interest rate risk comes into picture where .
+quora_302,What is the point of inflation? - Quora
+quora_303,What is the relationship between interest rates, inflation, and exchange rates in an economy? How can you explain the high inflation in Argentina right now?
+quora_304,What are the Inflation prospects for US ? - Quora
+quora_305,What are the Inflation prospects for US ? Money supply increases . What is the current inflation rate in the US? How will inflation affect the US national debt?
+quora_306,What is the most accurate measurement of inflation? - Quora
+quora_307,What is the most accurate measurement of inflation? How does one measure inflation accurately? Update Cancel. Promoted by qplum. . What is the inflation rate formula?
+quora_308,What is the impact of RBI rates on inflation/deflation? - Quora
+quora_309,First, a preface on the Interest rates and Inflation,separately. Too many factors revolve around the basis of the decisions by the Central Bank of a country.
+quora_310,What is the current inflation rate in India based on GDP .
+quora_311,What is the current inflation rate in India based on GDP deflator? Update Cancel. Can you answer this question? Answer. Answer Wiki. Related Questions.
+quora_312,Inflation vs interest rate cut? - Quora
+quora_313,Inflation and interest rates are linked, and frequently referenced in macroeconomics. Inflation refers to the rate at which prices for goods and services rises.
+quora_314,Is 0 percent inflation ideal? - Quora
+quora_315,Is 0 percent inflation ideal? Update Cancel. Answer Wiki. 2 Answers. . Why does the RBI insist on keeping the inflation rate at 6-7 percent and why not bring it .
+quora_316,Is inflation going to rise in the U.S. in the near term, and .
+quora_317,Very possible. Inflation is more likely to occur when capital is cheap, and with the Federal Reserve having kept interest rates at between zero and 0.25% since last .
+quora_318,If the UK inflation rate is less than 3% then why does it .
+quora_319,If the UK inflation rate is less than 3% then why does it feel as if the Cost of Living has risen between 10% and 15%?
+quora_320,How can inflation affect a business? - Quora
+quora_321,Inflation can affect a business in the following ways: Fixed rate loans will become less costly to repay under higher future inflation; Borrowing cost for new loans .
+quora_322,What is inflation inertia? - Quora
+quora_323,Inflation inertia is when the prices keep rising because of past inflation, despite of the lack of structural reasons for that to happen. Inflation always have some .
+quora_324,If inflation rate is 0% then what will be the impact on time .
+quora_325,The inflation rate is about 3%, banks offers a loan rates under 3%, does the bank lose money? What should be the ideal inflation rate?
+quora_326,Will the inflation rates be lower this century than they were .
+quora_327,Firstly, the question needs clarification. Are you asking whether all inflation rates everywhere in the world will be lower than all inflation rates in world have .
+quora_328,Why does the US have low inflation despite having such a low .
+quora_329,Interest rates are just one factor affecting inflation. In India's context there are many other factors. One of the biggest drivers of inflation is growth.
+quora_330,How does goverment spending related to inflation and interest .
+quora_331,How would a flexible gold standard reduce uncertainty about inflation, interest rates and exchange rates?
+quora_332,Can the devaluation of a currency increase the inflation rate .
+quora_333,A devaluation leads to a decline in the value of a currency making exports more competitive and imports more expensive. Inflation occurs when there is an increase in .
+quora_334,What is the relationship between inflation and labor .
+quora_335,Only an indirect relationship. In most countries, the central bank targets a particular rate of price inflation, which it pursues through policies that affect the .
+quora_336,In India, the inflation rate currently stands around 8%, then .
+quora_337,In India, the inflation rate currently stands around 8%, then how are various investment options like Post Office Savings, PPFs, FDs, Savings A/c, Company FDs helpful .
+quora_338,What are the impact of inflation and interest rate on Indian .
+quora_339,Inflation and Interest rate generally affects the financial sector through the real sector ie manufacturing. This impacts the currency markets and bond markets as .
+quora_340,How does Islam cater to inflation when interest is haram .
+quora_341,How does Islam cater to inflation when interest is haram? Update Cancel. Answer Wiki. . Note that I included Morocco because they have a very low inflation rate, .
+quora_342,What is the difference between inflation and deflation? How .
+quora_343,What is the difference between inflation and deflation? . Thus, deflation occurs when the inflation rate falls below 0% (or it is negative inflation rate).
+quora_344,Where can I get information on inflation (actual monthly .
+quora_345,Where can I get information on inflation (actual monthly inflation rates . Why can't interest rates be much below inflation when the inflation rate itself is .
+quora_346,Can one live off bank interest indefinitely on a tax adjusted .
+quora_347,No, one cannot live indefinitely off of bank interest rates as the after tax inflation adjusted return is always negative to slightly negative in the long run by .
+quora_348,How does inflation affect the IT industry in India? - Quora
+quora_349,Inflation is a necessary evil, too much or too less of it is not good for an economy. Therefore, I am assuming your question in context of high inflation.
+quora_350,In the statement 'an increase in the money supply causes .
+quora_351,In the statement "an increase in the money supply causes inflation", which measure of money supply is meant, . In a misguided effort to manage long-term rates, .
+quora_352,Is it possible to reverse inflation? - Quora
+quora_353,Is it possible to reverse inflation? . This article implies that ISIS could affect Singapore's inflation rates in 2015. How is this possible? Related Questions.
+quora_354,Where can one find the inflation rate of every US state? - Quora
+quora_355,Where can one find the inflation rate of every US state? Update Cancel. . What is the relationship between interest rates, inflation, and exchange rates in an economy?
+quora_356,Economics: How do low interest rates affect inflation? - Quora
+quora_357,Low interest rates have the effect of accelerating the rate of inflation in a normal condition. The chain of events follow three steps. Step 1, the Central banks .
+quora_358,Why is the inflation rate in India at a five year low? - Quora
+quora_359,Will the ultra low 0.3% CPI inflation rate keep the USA Federal Reserve from raising interest rates this year? Despite a consumer based economy, why inflation rate in .
+quora_360,How does inflation affect a country's currency? - Quora
+quora_361,Relationship between Inflation and Value of Currency This is one of the most interesting topics of economics always discussed. Even during my schooling, I used to .
+quora_362,How to stop hyperinflation once it starts - Quora
+quora_363,How do you stop hyperinflation once it starts? Update . The most important matter with regards to inflation rates and their unbounded rise is investor confidence .
+quora_364,What is the current inflation rate in the US? - Quora
+quora_365,The current inflation rate in US is 1.7% for 12 months upto Aug 2014. Inflation rate for Sep 2014 will be available on 22 October 2014 as per US Bureau of Labor .
+quora_366,What will US inflation be like in 2015? - Quora
+quora_367,What will US inflation be like in 2015? Update Cancel. Promoted by Fundrise. Fundrise: . What's your view on the current and future inflation rate in the US ?
+quora_368,What is the actual rate of inflation in the USA? - Quora
+quora_369,The Economy of the United States of America. Economics. What is the actual rate of inflation in the USA? Take in to account all the pieces that are excluded or modified.
+quora_370,Why does the US have low inflation despite having . - Quora
+quora_371,Interest rates are just one factor affecting inflation. In India's context there are many other factors. One of the biggest drivers of inflation is growth.
+quora_372,What is the American inflation? - Quora
+quora_373,Inflation is quite simply, the general rise in the prices of goods and services. Inflation is measured on a percentage basis. If the inflation rate is 5% for year X:
+quora_374,How does low inflation and unemployment affect the GDP of the US?
+quora_375,How does inflation and unemployment affect the US GDP? . What's the relationship between interest, inflation, unemployment and exchange rates?
+quora_376,Why is the inflation rate in Argentina so high at the moment .
+quora_377,Why is the inflation rate in Argentina so high at the moment? . Despite a consumer based economy, why inflation rate in US is so low?
+quora_378,What is the relationship between interest rates, inflation .
+quora_379,As the interest rates rise, the market becomes attractive for capital. As a result the currency appreciates. However, in a country with high inflation, the interest .
+quora_380,Is inflation going to rise in the U.S. in the near term, and .
+quora_381,Is inflation going to rise in the U.S. in . raising interest rates to curb inflation would likely slow any . What would happen if the United States were to return .
+quora_382,Why does Colombia, South America have a seemingly high .
+quora_383,. South America have a seemingly high unemployment rate of 10.4%? Update Cancel. Answer Wiki. . the wage growth at a bigger rate than the inflation rate every .
+quora_384,What are the Inflation prospects for US ? - Quora
+quora_385,What are the Inflation prospects for US ? Money supply increases . What is the current inflation rate in the US? How will inflation affect the US national debt?
+quora_386,What is the adjusted inflation rate for US if food and gas .
+quora_387,What is the adjusted inflation rate for US if food and gas were included? I believe the US does not include food and gas in calculating inflation since they are .
+quora_388,What is exporting inflation And How did the US export .
+quora_389,How did the US export inflation to other countries (Germany, Japan) under fixed exchange rate (Bretton Woods)?
+quora_390,Why is 2% the ideal inflation rate? - Quora
+quora_391,On a macro- scale, why is the ideal inflation rate set around 2%? Why does this signify a healthy economic growth rate? There's no ideal inflation rate central .
+quora_392,How do interest rates affect inflation? - Quora
+quora_393,Inflation is the rise over time in the prices of goods and services usually measured as an annual percentage, just like interest rates. Lesser Interest rates will .
+quora_394,Austrian School Economics: How bad has inflation been in .
+quora_395,High and uncertain inflation can be a big problem but a low and relatively steady rate of inflation isn't a big deal. It's not a problem getting 30 year mortgages in .
+quora_396,I read inflation in the United States is going up about 2 .
+quora_397,If the inflation rate is increasing every year by 8% in India, . If I wanted to learn about the United States of America, what would be the best books to read?
+quora_398,What is the effect of inflation on the value of the rupee .
+quora_399,If 1 dollar is say 60 rupees and due to inflation the value of money reduces, doesn't dollar get cheaper for us? We can buy the same dollar for lesser value?
+quora_400,What is a desirable level of inflation? - Quora
+quora_401,It's important to distinguish between the desirable rate of inflation in the short term and the long term. In the short term, unexpected inflation benefits borrowers .
+quora_402,Why does US have low inflation despite "money printing"?
+quora_403,Despite a consumer based economy, why inflation rate in US is so low? Despite savings based economy why the inflation rate in India is so high.
+quora_404,Inflation in India: Is increasing interest rates a solution .
+quora_405,Despite a consumer based economy, why inflation rate in US is so low? Despite savings based economy why the inflation rate in India is so high.
+quora_406,What are the causes of inflation? - Quora
+quora_407,What are the causes of inflation? Technically inflation is positive when growth in money stock is greater than growth of GDP. But there are a number of things .
+quora_408,Why is inflation bad or unhealthy? - Quora
+quora_409,Why is inflation bad or unhealthy? . The Federal Reserve targets an inflation rate of about 2%: . How bad is academic inflation today in America?
+quora_410,What is the single most important cause for inflation in India?
+quora_411,What is the single most important cause for inflation . How did India decrease the inflation rate so . As the prices in United States Of America rises it .
+quora_412,What is inflation? What are trends in inflation & their .
+quora_413,Consider the annual inflation rate to be 5%. . The US Federal Reserve (the central bank of the United States) is expected to raise rates next year.
+quora_414,What is the relationship between inflation and interest rates .
+quora_415,Changing realized inflation and projected path of future inflation affect interest rates through the central bank expectations channel (which largely impacts.
+quora_416,Why are interest rates in Japan and the USA far lesser than .
+quora_417,US and Japan have lower inflation rates than India. It has not been so for number of years. Data source: Inflation, consumer prices (annual %)
+quora_418,What is the rate on which inflation has taken off in the past .
+quora_419,Mr.X has taken a loan. If the bank charges him exactly the inflation rate for entire loan tenure, who is better off, the bank or Mr.X?
+quora_420,What would you Estimate the average inflation rate for next .
+quora_421,What would you Estimate the average inflation rate for next 20 years will be in the . Is the United States going to experience higher than average inflation in the .
+quora_422,How realistic is hyperinflation in the near future, 2012-2016 .
+quora_423,Not very. The The Economy of the United States of America went through a very painful period of double digit percentage inflation in the 1970s (it was called .
+quora_424,2
+quora_425,Where can one find the inflation rate of every US state? - Quora
+quora_426,If the inflation rate is increasing every year by 8% in India, then why the salary of employees don't increases by at least the inflation rate. How can companies .
+quora_427,How does the US pay interest on its debt if inflation .
+quora_428,This question is hardly much different from your very recent previous question (What happens when inflation makes it impossible for the US to pay interest on their debt?
+quora_429,What is the relationship between inflation and unemployment?
+quora_430,On the X axis is the unemployment rate, while on the Y axis is inflation rate. So, as the inflation increases, . as in much of 19th century America.
+quora_431,What is the rate on which inflation has taken off in the past .
+quora_432,Mr.X has taken a loan. If the bank charges him exactly the inflation rate for entire loan tenure, who is better off, the bank or Mr.X?
+quora_433,Is the U.S. inflation rate over the past few years actually .
+quora_434,Is the U.S. inflation rate over the past few years actually much higher than the CPI (Consumer Price Index) indicates? If so, how does this relate to the growth in .
+quora_435,How does inflation and unemployment affect the US GDP?
+quora_436,Answer: (Low) Inflation encourages people not to stop investing their money. Unemployment, however, is a killer--anyone unemployed is not contributing to the economy.
+quora_437,What is the true current rate of inflation in the U.S.? - Quora
+quora_438,The method of the CPI calculation which says the U.S. has a 2-3% inflation rate has been changed and is no longer the measure used back in the Carter days.
+quora_439,Why do Indian banks have higher interest rates than US banks?
+quora_440,Why do Indian banks have higher interest rates than US banks? . But the inflation rate in the US is around 2%, so their interest rate ranges between 4%-6% at max.
+quora_441,How would the dollar, inflation, the US, and other countries .
+quora_442,How would the dollar, inflation, the US, and other countries be affected if all countries changed to using US dollars as their primary currency?
+quora_443,How are inflation and the rates of interest of banks related .
+quora_444,What is the relation between interest rate and inflation? What is the relation between inflation and bank interest rate? What is the relationship between interest .
+quora_445,Is interest on US treasuries adjusted for inflation? - Quora
+quora_446,What is the adjusted inflation rate for US if food and gas were included? Adjusted for inflation, which US President accumulated the most wealth?
+quora_447,How does inflation affect us? - Quora
+quora_448,How does inflation affect us? . Wages worldwide do not keep pace with the changing rate of inflation. Firstly because inflation isnt very apparent all the time.
+quora_449,How is the inflation related to bond prices? How would the .
+quora_450,How is the inflation related to bond prices? How would the inflation in the US affect the global bond prices and vice versa?
+quora_451,Why is productivity in the US economy so high? - Quora
+quora_452,Why is productivity in the US economy so high? High compared to what? . Despite a consumer based economy, why inflation rate in US is so low?
+quora_453,What is inflation? - Quora
+quora_454,One day, the US government decides to increase the money supply to invest in some . What is inflation . · Commodity prices track the inflation rate closely.
+quora_455,Does low unemployment cause inflation? - Quora
+quora_456,Does low unemployment cause inflation . What causes inflation and why has the rate of inflation . How does low inflation and unemployment affect the GDP of the US?
+quora_457,How is the US responsible for inflation in the world? - Quora
+quora_458,The United States of America. How is the US responsible for inflation in the world? . Is Dr. Raghuram Rajan responsible for decreasing the inflation rate?
+quora_459,Why hasn't inflation been higher in the U.S. in the last few .
+quora_460,Why hasn't inflation been higher in the U.S. in the last few years, since it has printed a lot of dollars and interest rates have been very low?
+quora_461,Is there much inflation in the U.S. economy at this time? - Quora
+quora_462,LOL! No. There is slowing down rather. The US Fed has been waiting whole year for CPI inflation to reach 2% so as they can raise the interest rates for the first time .
+quora_463,What is Negative inflation? And its effects? - Quora
+quora_464,When the prices of goods and services in an economy falls, we term it negative inflation or deflation. Negative inflation is usually catastrophic to an economy.
+quora_465,Is U.S. quantitative easing (money printing) causing .
+quora_466,Yes, US QE measures do cause inflation in nations that have currencies that are pegged to the US$ and those countries that are heavily dependent on exports to the US.
+quora_467,Why are the interest rates in the Unites States so low .
+quora_468,Why are the interest rates in the Unites States so low compared to those in India? . Why does the US have low inflation despite having such a low interest rate?
+quora_469,Which economic measure does influence Indian economy .
+quora_470,How does inflation and unemployment affect the US GDP? How does the non-accelerating inflation rate of unemployment change as an economy undergoes rapid expansion .
+quora_471,Why are inflation rates so high in emerging countries? - Quora
+quora_472,Why are inflation rates so high in emerging countries? Update . but because of the global reserve status and since other countries want to export to America, .
+quora_473,Why shouldn't the Central Bank aim for zero inflation? - Quora
+quora_474,Why shouldn't the Central Bank aim for zero inflation? Update . Healthy inflation rate is country specific and is . It is about 2 percent for the United States.
+quora_475,Why hasn't the US seen inflation yet? - Quora
+quora_476,Maybe this question should be rephrased? "Why is not the inflation in the US visible in the official statistics?" I lived in the US until about 10 years ago.
+quora_477,What is the base effect in the inflation rate? - Quora
+quora_478,What is the base effect in the inflation rate? Update Cancel. Promoted by Fundrise. . Despite a consumer based economy, why inflation rate in US is so low?
+quora_479,What would happen to an economy in which no inflation existed .
+quora_480,What would happen to an economy in which no inflation existed? Update Cancel. . Despite a consumer based economy, why inflation rate in US is so low?
+quora_481,How realistic is hyperinflation in the near future, 2012-2016 .
+quora_482,Not very. The The Economy of the United States of America went through a very painful period of double digit percentage inflation in the 1970s (it was called .
+quora_483,How bad is inflation in India? - Quora
+quora_484,Inflation, is an economic concept. The effect of inflation is the rise in prices of commodities and the consequent devaluation of money . Take this example :
+quora_485,How exactly is inflation calculated in countries like the UK .
+quora_486,When you are calculating inflation rate for a country, . Is there any casual connection between US and other countries inflation rates?
+quora_487,Would high inflation help solve the US housing problem? - Quora
+quora_488,Would Donald Trump's trade policies give us high inflation rates, therefore helping us pay back our national debt?
+quora_489,Can the US afford to pay the interest on the national debt if .
+quora_490,Original Question: Can the US afford to pay the interest on the national debt if interest rates are normalized? Yes— if we do something besides killing job growth .
+quora_491,What's some information about the inflation rate of India .
+quora_492,Despite a consumer based economy, why inflation rate in US is so low? Despite savings based economy why the inflation rate in India is so high.
+quora_493,What is the nature of inflation? - Quora
+quora_494,What is the nature of inflation? Why does it actually happen. What is the source of inflation? . Here is the US inflation rate throughout the years:
+quora_495,Is the United States going to experience higher than average .
+quora_496,Is the United States going to experience higher than average inflation in . Does the United Kingdom have a violent crime rate four times higher than the United States?
+quora_497,How much of an effect does inflation have on a country's .
+quora_498,How much of an effect does inflation have on a country . than a currency with manageable and stable inflation rates. . rates begin to rise in the US, .
+quora_499,On an inflation adjusted basis, who are the richest Americans .
+quora_500,On an inflation adjusted basis, who are the richest Americans in . 8% inflation rate, ass. What was the highest gas price in the US at any time in history, .
+quora_501,Why is inflation low in the US although prime rates are .
+quora_502,Why is inflation low in the US although prime rates are almost 0? . Despite a consumer based economy, why inflation rate in US is so low?
+quora_503,I read inflation in the United States is going up about 2 .
+quora_504,You were redirected because this question was merged with I read inflation in the United States is going up about 2 percent a year, when will the rate of pay increase?
+quora_505,What is the relationship between growth, inflation, and .
+quora_506,With simultaneously high rates of both inflation and unemployment, the so-called stagflation is experienced which discredit the idea of a stable trade-off between the .
+quora_507,Is inflation bad or good for economy of a country? - Quora
+quora_508,Is inflation bad or good for economy of a country? . When it comes to the "normal" Inflation rate . How bad is academic inflation today in America?
+quora_509,Why is inflation low in Thailand (2-3%) despite extremely low .
+quora_510,Why is inflation low in Thailand (2-3%) despite extremely low unemployment rate . Despite a consumer based economy, why inflation rate in US is so low?
+quora_511,If the US Fed increases interest rates, how will it affect .
+quora_512,Since the US economy is improving, it is widely expected that US Fed will raise the interest rates soon. But the recent mixed US economic data and turmoil in the .
+quora_513,Why does inflation depreciate the currency while deflation .
+quora_514,The question asked is: Why does inflation depreciate the currency while deflation appreciates the currency? If you are talking about monetary inflation then the .
+quora_515,What should be the ideal inflation rate for country like .
+quora_516,What should be the ideal inflation rate? What will be the impact on inflation if credit rating agencies like Moody's, S&P etc downgrade India's credit rating?
+quora_517,Why do people in developing countries tolerate inflation .
+quora_518,In the US and Europe anything above 6% would justify a strong rate raise, but developed countries just go along with such high inflation. In the long run: a central .
+quora_519,What are the factors that affect inflation in India? - Quora
+quora_520,What are the factors that affect inflation in . Comparativechange in inflation rate to change . Rupee depreciated from an average of 45.7 per US dollar in .
+quora_521,Is the U.S. trending towards inflation or deflation? - Quora
+quora_522,Is the U.S. trending towards inflation or deflation? Update Cancel. Answer Wiki. 2 Answers. . The US has had a declining rate of inflation for the past 35 years.
+quora_523,Why is some inflation 'healthy' for the economy? - Quora
+quora_524,Simply because the existence of consistent low level Inflation, precludes the existence of the evil of Deflation. If the economy is matter, then Deflation is anti matter.
+quora_525,3
+quora_526,Despite a consumer based economy, why inflation rate in US is .
+quora_527,Despite a consumer based economy, why inflation rate in US is so low? Despite savings based economy why the inflation rate in India is so high?
+quora_528,Is the U.S. trending towards inflation or deflation? - Quora
+quora_529,Is the U.S. trending towards inflation or deflation? Update Cancel. Answer Wiki. 2 Answers. . The US has had a declining rate of inflation for the past 35 years.
+quora_530,Why is inflation so high in India? - Quora
+quora_531,Why is inflation so high in India? . If you reduce interest rates, more loans, more inflation. . Atleast agricultural production is not totally controlled by us, .
+quora_532,Why are China's interest rates so high even though its .
+quora_533,Why is Dr. Raghuram Rajan so bent on keeping the interest rates high when inflation is at its lowest in 5 years?
+quora_534,Is the US economic improvement keeping up with the rate of .
+quora_535,How can the Feds and the US Government keep inflation down without raising interest rates or otherwise damping economic growth?
+quora_536,What can be explained about the hyperinflation in Zimbabwe .
+quora_537,HyperInflation: From the term itself we can see that its an inflation which is too difficult to control or it is an inflation which is occurring at very high rate.
+quora_538,Why would the Fed want to raise interest rates at all? - Quora
+quora_539,Fundamentally, US has to wait it's internal inflation to catch up before FED raises the interest rate. However, the average inflation rate for 2014 is only 0.8%.
+quora_540,Why is there little inflation in the United States given all .
+quora_541,Why is there little inflation in the United States given all the Quantitive . why don't we see higher inflation rate? Why is the US Dollar still relatively stron
+quora_542,What are some examples of countries having success in .
+quora_543,What are some examples of countries having success in inflation control? What did . Volcker temporarily halted the 1970s inflation by raising interest rates in the US.
+quora_544,Why is some inflation 'healthy' for the economy? - Quora
+quora_545,Simply because the existence of consistent low level Inflation, precludes the existence of the evil of Deflation. If the economy is matter, then Deflation is anti matter.
+quora_546,Why is low and zero inflation bad? - Quora
+quora_547,Why is low and zero inflation bad . Does immigration contribute to low inflation rate? . Our Constitution guarantees us Republicanism in the United States at both .
+quora_548,What can the US, IMF and World Bank do to reduce .
+quora_549,What can the US, IMF and World Bank do to reduce hyperinflation in Zimbabwe? Are there any policies that the Zimbabwean government can adopt to bring the inflation .
+quora_550,What is the inflation in India? - Quora
+quora_551,Inflation is the rate at which the general level of prices for goods and services is rising and, consequently, the purchasing power of currency is falling.
+quora_552,What is the current rate of inflation if housing is excluded .
+quora_553,What is the current rate of inflation if housing is excluded? Update Cancel. Answer Wiki. 2 Answers. Will Wister, . What is the current inflation rate in the US?
+quora_554,Will the ultra low 0.3% CPI inflation rate keep the USA .
+quora_555,Will the ultra low 0.3% CPI inflation rate keep the USA Federal Reserve from raising interest rates this year?
+quora_556,Is there a relationship between a country's population rate .
+quora_557,Inflation is the rate of change in prices. A population that is growing can lead to increased demand and thus increased prices, but the larger population can also .
+quora_558,Why is Switzerland's inflation rate the lowest? - Quora
+quora_559,Why is Switzerland's inflation rate the lowest? Update Cancel. Promoted by Fundrise. . when they arrive in the Europe/North America and similar countries?
+quora_560,Would a higher inflation level help the US economy now .
+quora_561,Yes, I would agree that a higher inflation target would help the US economy right now. As seen by the inverse relationship of unemployment and inflation in the .
+quora_562,Why is deflation worse than inflation? - Quora
+quora_563,Is inflation with persistently high unemployment better or worse than deflation with similar rates of unemployment? Why?
+quora_564,What is the relation between bankrate and inflation? - Quora
+quora_565,Inflation and bank rates are very closely related. Firstly you should know more about the bank rate. Bank rate is the rate at which the Central bank give loan to the .
+quora_566,Is compound interest really that important when interest .
+quora_567,Interest compounds at any rate over 0%. And US Treasuries pay more than expected inflation. Right now (around the time this question was asked) the 10 year market .
+quora_568,What is inflation and GDP? - Quora
+quora_569,GDP and inflation are two different things. First of all to explain what GDP, we first have to take an assumption. Let us assume of our country as a big manufacturing .
+quora_570,What does the inflation rate (and changes to it) indicate .
+quora_571,Basically, inflation is the rate at which your country is getting expensive to live in. Changes in inflation indicate the change in the amount of money you would have .
+quora_572,Should the Fed increase US interest rates? Why? - Quora
+quora_573,The primary concern of the US Fed is to achieve 2% inflation rate to achieve the sustainable GDP growth rate, otherwise the US can again slip into deflation.
+quora_574,Why is low inflation desirable as opposed to zero inflation .
+quora_575,Why is low inflation desirable as opposed to zero inflation? Update Cancel. Answer Wiki. . Why is inflation low in the US although prime rates are almost 0?
+quora_576,Why do developed countries like the USA and Japan have low .
+quora_577,Why do developed countries like the USA and Japan have low inflation and low bond yields despite having extremely high debt-to-GDP ratios?
+quora_578,How does inflation work in the case of electronic products .
+quora_579,How does inflation work in the case of electronic products? . is around 2% in the US and . of several products by over 10% despite the inflation rate being .
+quora_580,What are the advantages of inflation? - Quora
+quora_581,What are the advantages of inflation? Update . Now let us take a hypothetical situation . This is why government policy targets a low but positive inflation rate.
+quora_582,How is inflation calculated in India? - Quora
+quora_583,How is the inflation rate calculated in India? For example, retail inflation for April 2016 was 5.39%. Is this year-on year?
+quora_584,Why is the inflation rate in India at a five year low? - Quora
+quora_585,Will the ultra low 0.3% CPI inflation rate keep the USA Federal Reserve from raising interest rates this year? Despite a consumer based economy, why inflation rate in .
+quora_586,How does inflation affect the economy? - Quora
+quora_587,How does inflation affect the exchange rate? What is meant by 'opportunity cost' in economy & how does it negatively affect inflation? . How does inflation affect us?
+quora_588,If inflation remains low, what other causes are there to .
+quora_589,Interest rates in the US will supposedly go up during 2015, What other causes other than inflation can drive rates up, that is, if inflation remains low what other .
+quora_590,How to find the inflation rate - Quora
+quora_591,How can I find the inflation rate? . What is the relationship between interest rates, inflation, . Politics of the United States of America with 1350+ answers.
+quora_592,Is there any casual connection between US and other countries .
+quora_593,Answer: Yes, there are some casual connections between inflation rates of U.S. and other countries through the import/export channel. In recent years, weaker .
+quora_594,Why is inflation still so low in Japan? - Quora
+quora_595,Why is the inflation rate in the U.S. so low, . Why does the US have low inflation despite having such a low interest rate? Do the Yakuza still exist in Japan?
+quora_596,What's a good business in a country with high inflation rates .
+quora_597,What's a good business in a country with high inflation rates? Update Cancel. . In the context of the United States I would overturn the legal precedent set by .
+quora_598,Is inflation related to forex rates (like dollar - rupee .
+quora_599,Is inflation related to forex rates (like dollar - rupee conversion . The inflation rate was at times in . What was the conversion rate of a US dollar vis-a-vis .
+quora_600,How does inflation affect a country's currency? - Quora
+quora_601,How does inflation affect a country's currency? Update Cancel. . What is the relationship between interest rates, inflation, . inflation, the US, .
+quora_602,What does it say about the US economy if bond rates are low?
+quora_603,It states emphatically that US economic growth is slow, inflation pressures are not strong and the international economy is weak. I'll use what I stated in another .
+quora_604,What causes the inflation of Singapore's dollar and the high .
+quora_605,What causes the inflation of Singapore's dollar and the high cost . at just 0.1% annual rate for October. In US dollar . Singapore Inflation Rate Slows to Nearly .
+quora_606,Is there a connection between bank interest rates and .
+quora_607,There is indeed a direct connection. As bank interest rate goes up, inflation tends to go down and vice versa. Inflation is excess money chasing fewer things.
+quora_608,Does immigration contribute to low inflation rate? - Quora
+quora_609,Why is inflation low in the US although prime rates are almost 0? Related Questions. Do bubbles contribute to inflation? Why is inflation still so low in Japan?
+quora_610,Does raising the minimum wage increase inflation? - Quora
+quora_611,Would raising the minimum wage increase inflation since more money is in circulation? Ever since my Econ class a couple years ago I've been thinking about this scenario.
+quora_612,What is the best evidence that US inflation has been over .
+quora_613,What is the more likely problem in the US over a 12 to 24 month horizon: inflation or deflation (and why)? Has the inflation formula been changed over the years to .
+quora_614,Can the US hedge inflation by having regional currency? - Quora
+quora_615,Can the US hedge inflation by having regional currency? Re: . How can China have high inflation rates while its currency appreciates against US dollars?
+quora_616,Who determines the value of the pound sterling? - Quora
+quora_617,Exchange rates are determined by factors, such as interest rates, confidence, current account on balance of payments, economic growth and relative inflation rates.
+quora_618,How can we get an exchange rate of 1 Dollar = 1 Rupee? - Quora
+quora_619,How can we get an exchange rate of 1 Dollar = 1 Rupee? . It is far more than the negative inflation rates seen in the US in the same period.
+quora_620,Why US dollar or Euro is common currency of world? Why not .
+quora_621,Why US dollar or Euro is common currency of world? . Even in regards to inflation, the inflation rate in the US has remained relatively low compared to other countries.
+quora_622,Will inflation or deflation be a bigger problem for the U.S .
+quora_623,Economy of the United States of America. . Will inflation or deflation be a bigger problem for the U.S. economy from 2012-15? . (see inflation rate: .
+quora_624,What is the role of RBI in the Indian banking system? - Quora
+quora_625,Inflation - under control (RBI feels comfortable at 4-5% inflation rate, but in US even 2-3% in considered high) Unemployment - at the natural rate of unemployment .
+quora_626,4
+quora_627,What is the best evidence that US inflation has been over .
+quora_628,What is the more likely problem in the US over a 12 to 24 month horizon: inflation or deflation (and why)? Has the inflation formula been changed over the years to .
+quora_629,How can Japan manage inflation despite of the high dollar .
+quora_630,How can Japan manage inflation despite of the high dollar exchange rate? Update Cancel. . Despite a consumer based economy, why inflation rate in US is so low?
+quora_631,India's inflation rate is higher than GDP growth rate, is .
+quora_632,What are the inflation rates, GDP growth rates and employment rates in India? What are your views on it?
+quora_633,In what factors does inflation affect India? - Quora
+quora_634,In what factors does inflation affect India? Update . Let us come to deposit accounts . The annual rate of return for deposit accounts vary between 9%-11% depending .
+quora_635,Do the changes in direct or indirect taxes affect the .
+quora_636,If the central government changes the tax rate( VAT, service tax, income tax, excise duty etc) does it affect the inflation in the economy. If yes, then how the RBI .
+quora_637,How does increasing the inflation target rate of Japan from 1 .
+quora_638,Answer: In general, higher inflation leads to decreases in forex rates, thus making products from the affected country cheaper in terms of the importer's home currency.
+quora_639,What is the relationship between trade and inflation? - Quora
+quora_640,What is the relationship between trade and inflation? Update Cancel. Answer Wiki. . At 2% inflation rate in the US, all US goods will increase by two percent.
+quora_641,How is the unemployment rate calculated? - Quora
+quora_642,How is the unemployment rate calculated? . what is America's real unemployment rate? . How is the inflation rate calculated?
+quora_643,What is the role of RBI in the Indian banking system? - Quora
+quora_644,Inflation - under control (RBI feels comfortable at 4-5% inflation rate, but in US even 2-3% in considered high) Unemployment - at the natural rate of unemployment .
+quora_645,Considering the high inflation rate in India, is it smart to .
+quora_646,Considering the high inflation rate in India, is it smart to focus on savings more? . Despite a consumer based economy, why inflation rate in US is so low?
+quora_647,How is the real rate of return (after inflation) formula .
+quora_648,Let us understand this with an example. Assumptions Original amount - $ 100 Nominal Rate - 10%; i.e 0.1 Inflation - 5%; i.e 0.05 Step - 1: If there was no real return
+quora_649,How is China's inflation rate so low? How is it measured? - Quora
+quora_650,What does the CPI and the inflation rate have to do with each other? I was just growing trading economics and i noticed that currently China's inflation rate is .
+quora_651,What is the difference between inflation and rate of inflation?
+quora_652,Inflation generally means overall increase in the price of goods and services ( Tradable commodities) in long term. It is caused by various macro economic factors.
+quora_653,Why does inflation increase with GDP growth? - Quora
+quora_654,Why does inflation increase with GDP growth? . we call this inflation." The rate of . And it was indeed a period of enormous growth catapulting America as the .
+quora_655,How could the American public effectively communicate and .
+quora_656,How could the American public effectively communicate and expect the use of Average Household Income, adjusted for inflation, instead of unemployment rates?
+quora_657,Is inflation a form of taxation? - Quora
+quora_658,Is inflation a form of taxation? . If the inflation is expected (for example, in the US people have been expecting an 3% inflation rate for many decades), .
+quora_659,Is 0 percent inflation ideal? - Quora
+quora_660,Is 0 percent inflation ideal? Update Cancel. Answer Wiki. 2 Answers. Ron Maimon. Written Jan 18, 2014. . Why is inflation low in the US although prime rates are .
+quora_661,What is the relationship between inflation and repo rate? - Quora
+quora_662,What is the relationship between inflation and repo rate? Update Cancel. Answer Wiki. 6 Answers. Padma Latha, . Our cat, Teddy, trained us to play tag with him.
+quora_663,What are the reasons behind the inflation in Turkey today .
+quora_664,What are the reasons behind the inflation in . The most prominent cause of this relatively high inflation rate . (this was an extremely common call for us).
+quora_665,What would happen if USA stopped inflation for a year? How .
+quora_666,What would happen if USA stopped inflation for a . The ideal inflation rate seems to be . Can the US inflate away or default on its debt without provoking .
+quora_667,What is a concise explanation of how the US is exporting .
+quora_668,No. The US is not exporting inflation abroad. I wish it is, because the world from Europe to the emerging markets are flirting with deflation.
+quora_669,What is a reasonable level of inflation in an economy growing .
+quora_670,With relatively high inflation cited as an important issue by most people, the question then becomes, What is the best inflation rate? Many would say zero or negative .
+quora_671,How frequently does the Bureau of Labor Statistics calculate .
+quora_672,How frequently does the Bureau of Labor Statistics calculate and publish the . the unemployment rate in the US fell to 6.70 percent . inflation rate in .
+quora_673,What is the relationship between inflation, unemployment, and .
+quora_674,What is the relationship between inflation, unemployment, . Plus 3 years and 4 months takes us to year end. So inflation . never to influence the inflation rate.
+quora_675,What is the significance of inflation? - Quora
+quora_676,What is the significance of inflation? Update . What is the relationship between interest rates, inflation, . Canada and the US already share intelligence .
+quora_677,Is historical GDP adjusted for inflation? - Quora
+quora_678,Is historical GDP adjusted for inflation? . What is the impact of the inflation rate on the GDP growth rate? . How does it translate into US dollars?
+quora_679,Is there a ticker symbol for inflation? - Quora
+quora_680,Is there a ticker symbol for inflation . to provide a hedge against changes in the U.S. inflation rate by providing a "real return . ticker for US Steel X? How .
+quora_681,What is inflation tax? - Quora
+quora_682,What is inflation tax . Why don't tax slabs get adjusted each year based on annual inflation rate? What would happen if the US government taxed solely with inflation?
+quora_683,What's the relationship between inflation and demand of .
+quora_684,The rate of inflation in a country can have a major impact on the value of its currency and the rates of foreign exchange it has with the currencies of other nations.
+quora_685,How much money does one need to retire comfortably? - Quora
+quora_686,How much money does one need to retire comfortably? Update Cancel. Promoted by Fundrise. . Historical Inflation Rates: 1914-2014 [2] Using US Inflation Calculator, .
+quora_687,Why is inflation bad or unhealthy? - Quora
+quora_688,The Federal Reserve targets an inflation rate of about 2%: . How bad is academic inflation today in America? How violent and threatening is inflation?
+quora_689,What was the bitcoin inflation rate in 2013? - Quora
+quora_690,How did the US lower its inflation rate from 13.5% in 1980 to 1.5% in 2013? Bitcoin: Are interest rates relevant for Bitcoin? How is inflation controlled in Bitcoins?
+quora_691,How does the monetary policies of The United States of .
+quora_692,How does the monetary policies of The United States of America affect the countries with emerging economies like India?
+quora_693,What happens when the inflation rate goes negative? - Quora
+quora_694,What happens when the inflation rate goes negative? . If the inflation rate is negative how do you find the value of the price . NOBODY attacks America's Attic.
+quora_695,What is the effect of current account deficit on inflation .
+quora_696,What is the effect of current account deficit on inflation . would reduce the rate of inflation. . Where does the US get the money to finance its trade deficit .
+quora_697,WHAT CAN SLOWDOWN THE INFLATION RATE IN INDIA? - Quora
+quora_698,The inflation rate in India was recorded at 6.46 percent in September of 2013. Inflation Rate in India is reported by the Ministry of Commerce and Industry, India.
+quora_699,Why is the savings rate so low in the United States? - Quora
+quora_700,Why is the savings rate in China higher than that in the United States? . Why does the US have low inflation despite having such a low interest rate?
+quora_701,How would you explain inflation, GDP, and the dollar rate .
+quora_702,How would you explain inflation, GDP, and the dollar rate increase compared to INR in layman terms? . If in US dollar, how do exchange rate fluctuations affect them?
+quora_703,What are the reasons for Indian Rupee's devaluation since the .
+quora_704,What are the reasons for Indian Rupee's devaluation since the time . But inflation in The United States is . The country which has a higher inflation rate, .
+quora_705,What is the relation between inflation and bank interest rate .
+quora_706,What is the relation between inflation and bank interest rate? Update Cancel. Answer Wiki. . Why can't US banks savings account interest rate match inflation rate?
+quora_707,Is India's economy currently in a recession or in an inflation?
+quora_708,Is India's economy currently in a recession or in an inflation? Update Cancel. Answer Wiki. . Despite a consumer based economy, why inflation rate in US is so low?
+quora_709,How does employment rate in the US affect the interest rates .
+quora_710,Generally it should not be , as interest rate is a factor of inflation and rates should be 150- 200 bps above inflation. Other factors too count but inflation is a .
+quora_711,How likely is it for the USA to keep inflation at around 2% .
+quora_712,Why does the RBI insist on keeping the inflation rate at 6-7 percent and why not bring it down to 1-2 percent? What will be the impact?
+quora_713,Why is the rupee still above 60 to the dollar? - Quora
+quora_714,Why is the rupee still above 60 to the dollar? . So, we started with ₹1 = $1 in September 2013 and India's inflation rate lowered while US inflation rate rose.
+quora_715,In theory how does quantitative easing influence inflation .
+quora_716,In theory how does quantitative easing influence inflation and the real GDP? . why don't we see higher inflation rate? Why is the US Dollar still relatively stron .
+quora_717,Is inflation a hidden tax silently robbing us? - Quora
+quora_718,If the cost of United States wars was converted to an explicit tax rate instead of inflation hidden by the Federal Reserve, what would our tax.
+quora_719,What is the relation between Oil prices, Gold, Stock Markets .
+quora_720,Gold price, Stock prices, US Dollar and Oil Prices are all asset prices with similar characteristics such as asset price inflation and momentum.
+quora_721,What are the main reasons India survived the global economic .
+quora_722,What are the main reasons India survived the global economic . A high inflation rate . This is what happened in the US, Japan and much of Europe. They cut rates .
+quora_723,What will average annual inflation be over the next 75 years .
+quora_724,What will average annual inflation be over the . Is the United States going to experience higher than . What is the average yearly inflation rate in the San .
+quora_725,Do we need inflation? - Quora
+quora_726,Do we need inflation, as is it indispensable ? Short answer is no. During most of the Middle Ages, inflation rates were close to zero and so were growth rates, but .
